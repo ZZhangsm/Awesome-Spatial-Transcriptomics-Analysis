@@ -1,4 +1,3 @@
-# Awesome-Spatial-Transcriptomics-Analysis
 
 [stars-img]: https://img.shields.io/github/stars/zzhangsm/Awesome-Spatial-Transcriptomics-Analysis?color=yellow
 [stars-url]: https://github.com/zzhangsm/Awesome-Spatial-Transcriptomics-Analysis/stargazers
